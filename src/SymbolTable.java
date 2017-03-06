@@ -80,7 +80,7 @@ public class SymbolTable {
     public String buildInfix(String strVariable,String strOperator){
         strInfix="";
         int index=0;
-        while (!strVariable.isEmpty()&&!(index>strVariable.length())){
+        while (strVariable.isEmpty()&&(index<strVariable.length())){
             strInfix+=strVariable.charAt(index);
             if (!strOperator.isEmpty())
                 strInfix+=strOperator.charAt(index);

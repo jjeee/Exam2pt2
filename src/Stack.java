@@ -73,15 +73,3 @@ public class Stack<T>{
 
 
 }
-/*a.	Purpose: LIFO operation for a maximum of 100 characters;  (Use a constant SIZE);
-b.	sp: (Stack Pointer) indicate the top of the stack;
-c.	isEmpty, isFull: methods to see if the stack is either empty or full;
-d.	constructor: initialize all variables with proper values when instantiated;
-e.	push: this is how it works:
-i.	decrement “sp” by one;
-ii.	copy the character to the stack area pointed by “sp”;
-f.	pop:  this is how it works:
-i.	move the character in the stack pointed by “sp” to the variable;
-ii.	increment “sp” by one.
-g.	toString: display the content of the entire stack;
-*/

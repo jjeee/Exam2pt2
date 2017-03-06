@@ -1,0 +1,35 @@
+Jae Jee
+
+Stack Pointer	Value
+		97		C
+		98		B
+		99		A
+
+Stack Pointer	Value
+		96		D
+		97		C
+		98		B
+		99		A
+
+character popped: D
+Stack Pointer	Value
+		97		C
+		98		B
+		99		A
+
+character popped: C
+character popped: B
+character popped: A
+Stack is empty. Nothing to pop!
+character popped: null
+Stack is empty. Nothing to pop!
+character popped: null
+
+Stack Pointer	Value
+		98		10.0
+		99		93.7
+
+Stack Pointer	Value
+		97		C	10.0
+		98		B	7.0
+		99		A	93.7

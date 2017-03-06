@@ -1,0 +1,3 @@
+C. Save your "step1.java" as "step3.java" and construct a method "infix2Postfix" that takes infix that you produce in step1 to produce its postfix.
+Test your program and print out the postfix. (You may add the output to "out2a.txt" or write to "out2c.txt"
+D. Add a method "evaluate" that takes postfix from "infix2Postfix" to produce the result.

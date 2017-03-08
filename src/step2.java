@@ -1,7 +1,7 @@
-import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class step2 {
-    public step2() throws FileNotFoundException {
+    public step2() throws IOException {
         java.io.PrintWriter output = new java.io.PrintWriter("out2b.txt");
 
         String myName = "Jae Jee\n";
